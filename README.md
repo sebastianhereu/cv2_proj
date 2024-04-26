@@ -4,8 +4,7 @@ This repo contains
 
 1) .ipynb notebooks that contain
 the definitions and training of the models from our report.
-2) cs4732.ipynb demonstrating portrait gener-
-ation using the Pytorch state dictionaries of the pretrained models (see below).
+2) cs4732.ipynb demonstrating portrait generation using the Pytorch state dictionaries of the pretrained models (see below).
 
 
 Google Drive links to the Py-torch state dictionaries of the final trained models
